@@ -1,6 +1,8 @@
 # dots3DMP_humanPilotData
 
-data presented in:
+Pilot human data from visual-vestibular heading discrim task with RT and confidence judgments
+
+Presented in article:
 
 Self-motion perception and sequential decision-making: where are we heading?
 
@@ -12,12 +14,6 @@ https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0333
 
 
 filename: Jerjian_Fetsch_humanData_forPTB.mat
-
-Pilot human data from visual-vestibular heading discrim task with RT and confidence judgments
-Submitted to Phil Trans B theme issue on multisensory decision making
-
-Steven Jerjian, Devin Harsch, Chris Fetsch - 03-25-23
-
 
 fields in struct 'data':
 
