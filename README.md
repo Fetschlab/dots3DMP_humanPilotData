@@ -1,10 +1,15 @@
 # dots3DMP_humanPilotData
+
 data presented in:
+
 Self-motion perception and sequential decision-making: where are we heading?
+
 Steven J. Jerjian, Devin R. Harsch and Christopher R. Fetsch
+
 Published:07 August 2023https://doi.org/10.1098/rstb.2022.0333
 
 https://royalsocietypublishing.org/doi/full/10.1098/rstb.2022.0333
+
 
 filename: Jerjian_Fetsch_humanData_forPTB.mat
 
